@@ -1,7 +1,5 @@
 # Jogo do Número Secreto
 
-js-curso-2-one\img\image.png
-
 ## Sobre o Projeto
 
 Este projeto é parte do curso de **Lógica de Programação** oferecido pela partnership between **ALURA** e **Oracle** no programa **Formação Iniciante em Programação na Oracle Next Education**. Foi concebido para:
@@ -46,6 +44,9 @@ Este projeto é parte do curso de **Lógica de Programação** oferecido pela pa
 
 - **GitHub**: Controle de versão e hospedagem do código.
 - **Vercel**: Deploy e hospedagem do jogo.
+-### Link do Jogo
+🌐 [Clique aqui para jogar o Jogo do Número Secreto!](https://jogo-do-numero-secreto-theta-coral-76.vercel.app/)
+
 
 ## Estrutura do Projeto
 
